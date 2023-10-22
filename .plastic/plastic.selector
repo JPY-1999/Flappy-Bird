@@ -1,0 +1,4 @@
+repository "Flappy Bird@wechat_os_qy03r50tyczlja-nl0au-sqqq@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
